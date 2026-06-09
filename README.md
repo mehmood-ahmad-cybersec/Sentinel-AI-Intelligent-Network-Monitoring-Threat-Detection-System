@@ -13,11 +13,17 @@ The system combines network scanning, port analysis, machine learning-based anom
 ---
 
 ## Key Features
+
 ✔ **Real-Time Network Device Discovery** (IP & MAC Address Detection)
+
 ✔ **Open Port Scanning** & Dangerous Port Identification
+
 ✔ **AI-Powered Anomaly Detection** using Isolation Forest Machine Learning Model
+
 ✔ **Live Traffic Monitoring** & Interactive Cybersecurity Dashboard
+
 ✔ **Automated Email Alerts** on threat detection
+
 ✔ **Data Management:** SQLite Device Logging & CSV Report Export
 
 ---
