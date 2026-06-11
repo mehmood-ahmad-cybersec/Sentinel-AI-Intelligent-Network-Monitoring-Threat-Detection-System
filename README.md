@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python) ![Cyber Security](https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge&logo=springsecurity) ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge&logo=scikit-learn) ![SQLite](https://img.shields.io/badge/Database-SQLite-orange?style=for-the-badge&logo=sqlite)
+
 # Sentinel AI: Intelligent Network Monitoring & Threat Detection System
 
 ### Final Year Project | BS Information Technology
