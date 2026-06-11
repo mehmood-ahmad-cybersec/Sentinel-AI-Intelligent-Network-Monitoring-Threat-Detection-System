@@ -1,1 +1,0 @@
-# Sential AI Diagrams
