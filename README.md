@@ -82,13 +82,13 @@ Required Libraries:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/Sentinel-AI-Network-Security-System.git
+git clone https://github.com/mehmood-ahmad-cybersec/Sentinel-AI-Intelligent-Network-Monitoring-Threat-Detection-System.git
 ```
 
 ### Move to Project Folder
 
 ```bash
-cd Sentinel-AI-Network-Security-System
+cd Sentinel-AI-Intelligent-Network-Monitoring-Threat-Detection-System
 ```
 
 ### Install Dependencies
