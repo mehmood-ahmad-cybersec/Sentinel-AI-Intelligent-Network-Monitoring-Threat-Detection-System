@@ -101,13 +101,14 @@ pip install -r requirements.txt
 
 # How to Run
 
+### Run the Application
+
 ```bash
-python gui.py
+python main.py
 ```
 
-### Execution Flow
-
-1. Launch Dashboard  
+### Steps
+1. Launch Sentinel AI Dashboard  
 2. Scan Network Devices  
 3. Detect Open Ports  
 4. Start AI Monitoring  
