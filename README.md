@@ -119,7 +119,7 @@ python gui.py
 
 <div align="center">
 
-![Architecture Diagram](diagrams/architecture-diagram.jpg)
+![Architecture Diagram](diagrams/Architecture-diagram.jpg)
 
 </div>
 
@@ -129,7 +129,7 @@ python gui.py
 
 <div align="center">
 
-![Workflow Diagram](diagrams/workflow-diagram.jpg)
+![Workflow Diagram](diagrams/Workflow-diagram.jpg)
 
 </div>
 
@@ -154,28 +154,28 @@ Live monitoring overview.
 ## 3. Network Scanner
 Real-time network discovery and port assessment.
 
-![Network Scanner](screenshots/network-scan.png)
+![Network Scanner](screenshots/scanner.png)
 
 ---
 
 ## 4. AI Monitoring
 Isolation Forest model detecting live traffic anomalies.
 
-![AI Monitoring](screenshots/ai-monitor.png)
+![AI Monitoring](screenshots/ai_monitoring.png)
 
 ---
 
 ## 5. Database Logs
 SQLite device activity history.
 
-![Database Logs](screenshots/database-logs.png)
+![Database Logs](screenshots/database_logs.png)
 
 ---
 
 ## 6. Email Alert System
 Automated security alerts sent instantly.
 
-![Email Alerts](screenshots/email-alerts.png)
+![Email Alerts](screenshots/email_alerts.png)
 
 ---
 
